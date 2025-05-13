@@ -48,8 +48,6 @@ cd backend && npm install
 - Használj `useEffect`-et, hogy lekérd a kutyákat a komponens betöltésekor a `/api/dogs` végpontról.
 - Töltsd be őket egy `<ul>` elembe, minden kutyát egy `<li>`-be.
 
-🔁 **Tipp:** `fetch('/api/dogs')` és `.then(res => res.json())`
-
 ---
 
 ## ➕ 2. lépés – Új kutya hozzáadása (form + POST)
@@ -57,7 +55,7 @@ cd backend && npm install
 📄 **Feladat:**
 
 - Hozz létre egy `newDog` állapotot a form adataihoz.
-- Hozz létre egy űrlapot, ahol megadhatod: `name`, `breed`, `age`.
+- Hozz létre egy űrlapot, ahol megadhatod: `name`, `breed`, `age`, `gender`, `image`, `description`, `vaccinated`, `available`.
 - Ha rákattintasz a "Hozzáadás" gombra:
   - akadályozd meg az alapértelmezett űrlapküldést (`e.preventDefault()`),
   - küldd el `POST`-tal az adatokat a `/api/dogs` végpontra,
