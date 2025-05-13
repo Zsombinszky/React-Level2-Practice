@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Buddy",
+    "breed": "Labrador Retriever",
+    "age": 4,
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1558788353-f76d92427f16",
+    "description": "A friendly and energetic dog who loves playing fetch.",
+    "vaccinated": true,
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Bella",
+    "breed": "German Shepherd",
+    "age": 3,
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1596495577886-d920f1fb7238",
+    "description": "Highly intelligent and loyal, perfect for active families.",
+    "vaccinated": true,
+    "available": false
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "breed": "Golden Retriever",
+    "age": 5,
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1507146426996-ef05306b995a",
+    "description": "Loves cuddles and is great with kids.",
+    "vaccinated": false,
+    "available": true
+  },
+  {
+    "id": 4,
+    "name": "Luna",
+    "breed": "Poodle",
+    "age": 2,
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1619983081563-cbf8b1c1ce3b",
+    "description": "A smart, hypoallergenic dog with lots of energy.",
+    "vaccinated": true,
+    "available": true
+  },
+  {
+    "id": 5,
+    "name": "Max",
+    "breed": "Bulldog",
+    "age": 6,
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1568572933382-74d440642117",
+    "description": "Chill and affectionate with a big heart.",
+    "vaccinated": false,
+    "available": false
+  },
+  {
+    "id": 6,
+    "name": "Lucy",
+    "breed": "Beagle",
+    "age": 3,
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1601758123927-196d5f6e1c03",
+    "description": "Loves to explore and has a great nose!",
+    "vaccinated": true,
+    "available": true
+  },
+  {
+    "id": 7,
+    "name": "Rocky",
+    "breed": "Rottweiler",
+    "age": 4,
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1619982631655-22c33c3c6efc",
+    "description": "Strong and protective, yet gentle with loved ones.",
+    "vaccinated": true,
+    "available": true
+  },
+  {
+    "id": 8,
+    "name": "Daisy",
+    "breed": "Boxer",
+    "age": 2,
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1583511666445-775f1f2116f4",
+    "description": "Always playful and full of energy.",
+    "vaccinated": false,
+    "available": false
+  },
+  {
+    "id": 9,
+    "name": "Milo",
+    "breed": "Siberian Husky",
+    "age": 5,
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1604391704748-fc3c849b2c1e",
+    "description": "Loves winter walks and has a beautiful howl.",
+    "vaccinated": true,
+    "available": true
+  },
+  {
+    "id": 10,
+    "name": "Molly",
+    "breed": "Dachshund",
+    "age": 4,
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1596495578045-b0db26db47f9",
+    "description": "Small but brave, and full of personality.",
+    "vaccinated": true,
+    "available": true
+  },
+  {
+    "id": 11,
+    "name": "Toby",
+    "breed": "Doberman",
+    "age": 6,
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1607631014986-02f36bdb08fd",
+    "description": "Alert, elegant, and incredibly loyal.",
+    "vaccinated": false,
+    "available": false
+  },
+  {
+    "id": 12,
+    "name": "Lola",
+    "breed": "Great Dane",
+    "age": 3,
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1558788353-5dd63e29d2a6",
+    "description": "A gentle giant who loves to nap.",
+    "vaccinated": true,
+    "available": true
+  },
+  {
+    "id": 13,
+    "name": "Oscar",
+    "breed": "Shih Tzu",
+    "age": 2,
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1583511655844-4b18e830f4c9",
+    "description": "Loves cuddling on the couch.",
+    "vaccinated": true,
+    "available": false
+  },
+  {
+    "id": 14,
+    "name": "Sadie",
+    "breed": "Border Collie",
+    "age": 5,
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1596495680268-4f2f48174f6b",
+    "description": "Super smart and needs lots of mental stimulation.",
+    "vaccinated": true,
+    "available": true
+  },
+  {
+    "id": 15,
+    "name": "Jack",
+    "breed": "Cocker Spaniel",
+    "age": 4,
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1568572933382-74d440642117",
+    "description": "Always wagging his tail and loves belly rubs.",
+    "vaccinated": false,
+    "available": true
+  },
+  {
+    "id": 16,
+    "name": "Zoe",
+    "breed": "Chihuahua",
+    "age": 1,
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1fc1d40",
+    "description": "Tiny but full of attitude and sass.",
+    "vaccinated": true,
+    "available": false
+  },
+  {
+    "id": 17,
+    "name": "Bailey",
+    "breed": "Australian Shepherd",
+    "age": 3,
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1601480033585-4c30a8d3cd0c",
+    "description": "Great herder and extremely intelligent.",
+    "vaccinated": true,
+    "available": true
+  },
+  {
+    "id": 18,
+    "name": "Ruby",
+    "breed": "Bichon Frise",
+    "age": 4,
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1582457276009-cf6b1e3d9b0c",
+    "description": "Fluffy, fun, and hypoallergenic.",
+    "vaccinated": false,
+    "available": true
+  },
+  {
+    "id": 19,
+    "name": "Leo",
+    "breed": "Akita",
+    "age": 6,
+    "gender": "male",
+    "image": "https://images.unsplash.com/photo-1543852786-1cf6624b9987",
+    "description": "Majestic and independent with a calm nature.",
+    "vaccinated": true,
+    "available": false
+  },
+  {
+    "id": 20,
+    "name": "Nala",
+    "breed": "Pomeranian",
+    "age": 2,
+    "gender": "female",
+    "image": "https://images.unsplash.com/photo-1537151625747-768eb6cf92b6",
+    "description": "Fluffy, cute, and full of energy!",
+    "vaccinated": true,
+    "available": true
+  }
+]

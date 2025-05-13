@@ -1,0 +1,16 @@
+# Node.js dolgok
+node_modules/
+npm-debug.log*
+
+# Frontend build
+/frontend/.next/
+/frontend/dist/
+/frontend/.env
+
+# Backend dolgok
+/backend/node_modules/
+/backend/.env
+
+# Általános
+.DS_Store
+.env
