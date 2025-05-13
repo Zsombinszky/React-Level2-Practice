@@ -22,7 +22,7 @@ cd backend && npm install
 3. Indítsd el a frontendet (`npm run dev` Vite projektnél).
 4. Nyisd meg a böngészőben a következő URL-t:
    http://localhost:3001/api/dogs végpontnak vissza kell adnia egy kutya listát.
-5. Így néz ki egy dog object :
+5. Így néz ki egy kutya object :
 
 ```json
 {
